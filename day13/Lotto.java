@@ -1,5 +1,6 @@
 package day13;
-import java.util.*; //java.util 패키지에 있는 모든 클래스 import
+import java.util.*;
+//java.util 패키지에 있는 모든 클래스 import
 /*
     1. 6개의 로또 번호를 저장할 배열
     2. 보너스 숫자를 저장할 변수
