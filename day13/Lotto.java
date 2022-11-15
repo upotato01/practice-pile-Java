@@ -31,7 +31,7 @@ public class Lotto {
         System.out.println("보너스 값 입력");
         bonusUser=sc.nextInt();
         System.out.println("===============================================");
-
+        System.out.println("===============================================");
         //로또 배열의 값과 사용자배열의 값중 같은 값이 몇개 있는지 카운팅
         for(int j=0; j<6; j++){
             for(int i=0; i<6;i++){
